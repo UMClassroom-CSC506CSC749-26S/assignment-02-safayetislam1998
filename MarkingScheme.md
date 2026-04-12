@@ -5,7 +5,7 @@
 <TR> <TD WIDTH=30%> Student:
      <TD WIDTH=10%> &nbsp;
      <TD WIDTH=30%> Mark:
-     <TD WIDTH=10%> /20
+     <TD WIDTH=10%> 19.5/20
 
 <TR> <TD COLSPAN=4> &nbsp;
 <TR> <TH ALIGN=LEFT COLSPAN=4> Types - 3
@@ -73,7 +73,7 @@
      <TD WIDTH=40%> Non-primary producers eat
      <TD WIDTH=10%> [0.5]
 <TR> <TD WIDTH=40%> Foodchain
-     <TD WIDTH=10%> [1.5]
+     <TD WIDTH=10%> [1.25/1.5]
      <TD WIDTH=40%> 
      <TD WIDTH=10%> 
 <TR> <TD WIDTH=40%> No death spirals
@@ -91,7 +91,7 @@
 <TR> <TD WIDTH=40%>
      <TD WIDTH=10%> 
      <TD WIDTH=40%> In the middle of a foodchain
-     <TD WIDTH=10%> [1.0]
+     <TD WIDTH=10%> [0.75/1.0]
 <TR> <TD WIDTH=40%> Depends
      <TD WIDTH=10%> [0.5]
      <TD WIDTH=40%> Non-apex predator
